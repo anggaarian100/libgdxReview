@@ -58,6 +58,7 @@ public class SceneDemo mengimplementasikan ApplicationListener {
     }
 }
 ```
+<img align="middle" src="http://www.gamefromscratch.com/image.axd?picture=image_1032.png" /> 
 ```
 package com.gamefromscratch;
 
