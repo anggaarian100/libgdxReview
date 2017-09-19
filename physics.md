@@ -1,6 +1,6 @@
 # Part 13: Physics Part 1 – A Basics Simulation
 
-Secara physics teknis bukan bagian dari LibGDX itu sendiri, melainkan diimplementasikan diberbagai game engine lainnya. Physics yang digunakan di LibGDX adalah sistem physic Box2D yang populer sebagai library yang telah di porting di setiap platform dan bahasa yang pernah digunakan.
+Secara teknis physics bukan bagian dari LibGDX itu sendiri, melainkan diimplementasikan diberbagai game engine lainnya. Physics yang digunakan di LibGDX adalah sistem physic Box2D yang populer sebagai library yang telah di porting di setiap platform dan bahasa yang pernah digunakan.
 
 Jika belum pernah menggunakan physic sebelumnya, sebaiknya dimulai dengan dasar tentang apa dilakukan physic tersebut dan cara kerjanya. Pada dasarnya physics mengambil informasi scene yang kita berikan, lalu menghitung gerakan "realistis" dengan menggunakan perhitungan fisika. Penjelesannya seperti berikut:
 
