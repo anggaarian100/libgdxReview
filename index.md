@@ -1,5 +1,5 @@
 <p align="center"><b> TUGAS REVIEW :LibGDX Architecture and API</b></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30577024-e6a757f4-9d35-11e7-9db6-c6a3efc2f2ba.png" width="80%" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30577024-e6a757f4-9d35-11e7-9db6-c6a3efc2f2ba.png"width="80%" /></p>
 
 ## The Tutorial :
 
@@ -25,9 +25,9 @@
 
 * [Part 9: Scene2D Part 2 – Actions](scene2d2.md)
 
-* [Part 9: Scene2D Part 3 – Scene Management](scene2d23.md)
+* [Part 9: Scene2D Part 3 – Scene Management](scene2d3.md)
 
-* [Part 9: Scene2D Part 4 – UI Skins](scene2d234.md)
+* [Part 9: Scene2D Part 4 – UI Skins](scene2d4.md)
 
 * [Part 10: Basic Networking](basicnetworking.md)
 
