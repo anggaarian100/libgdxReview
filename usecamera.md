@@ -6,5 +6,5 @@ Gambaran sederhananya:
 * Kamera - sebagai mata di tempat kejadian, menentukan apa yang pemain bisa lihat, digunakan oleh LibGDX untuk membuat scene.
 * Viewport - mengontrol bagaimana hasil render dari kamera ditampilkan ke pemain, baik itu dengan black bar, stretched atau tidak melakukan apa-apa sama sekali.
 
-Di LibGDX ada dua jenis kamera, yaitu PerspectiveCamera dan the OrthographicCamera. Jika kita mengerjakan game 2D, biasanya menggunakan kamera Orthographic, sementara jika kita bekerja dalam 3D, kemungkinan besar kita menggunakan kamera Perspektif. Untuk mengetahui lebih lanjut tentang kamera di LibGDX, kunjungi halaman berikut http://www.gamefromscratch.com/post/2014/12/08/LibGDX-Tutorial-Part-16-Cameras.aspx
+Di LibGDX ada dua jenis kamera, yaitu PerspectiveCamera dan the OrthographicCamera. Jika kita mengerjakan game 2D, biasanya menggunakan kamera Orthographic, sementara jika kita bekerja dalam 3D, kemungkinan besar kita menggunakan kamera Perspektif. Untuk mengetahui lebih lanjut tentang kamera di LibGDX, kunjungi halaman berikut [Camera](http://www.gamefromscratch.com/post/2014/12/08/LibGDX-Tutorial-Part-16-Cameras.aspx)
 
