@@ -1,1 +1,3 @@
+# Part 13: Physics Part 4 – Controlling Collisions using Filters
 
+Collisions bisa kita modifikasi pada sebuah benda, untuk misalkan benda apa saja yang hanya bisa ditubruk oleh pemain dan yang bisa diabaikan oleh si pemain, yaitu dengan cara menambahkan Filters pada Collisions yang kita gunakan pada si pemain dan benda-benda yang berinteraksi dengannya. Biasanya benda-benda tersebut diberi sebuah variabel Flag untuk mengingatkan bahwa si pemain boleh atau tidak menubruk benda yang diberi Flag tersebut. Untuk penjelasan selengkapnya tentang Filtering Collisions kunjungi laman ini [Physics Engine 4](http://www.gamefromscratch.com/post/2014/09/25/LibGDX-LibGDX-Tutorial-13-Physics-with-Box2D-Part-4-Controlling-collisions-using-filters.aspx)
