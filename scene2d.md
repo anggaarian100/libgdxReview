@@ -142,4 +142,4 @@ public void render() {
 
 <img align="middle" src="http://www.gamefromscratch.com/image.axd?picture=scene2_thumb.gif" /> 
 
-Scene2D adalah subjek yang cukup besar, jadi pembahasannya menjadi beberapa bagian. Penjelesan lebih luas kita bisa lihat di laman berikut [GamePad Support](http://www.gamefromscratch.com/post/2013/11/27/LibGDX-Tutorial-9-Scene2D-Part-1.aspx)
+Scene2D adalah subjek yang cukup besar, jadi pembahasannya menjadi beberapa bagian. Penjelesan lebih luas kita bisa lihat di laman berikut [Scene2D](http://www.gamefromscratch.com/post/2013/11/27/LibGDX-Tutorial-9-Scene2D-Part-1.aspx)
