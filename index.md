@@ -1,5 +1,5 @@
 <p align="center"><b> TUGAS REVIEW :LibGDX Architecture and API</b></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30577024-e6a757f4-9d35-11e7-9db6-c6a3efc2f2ba.png"width="80%" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/30854434/30577024-e6a757f4-9d35-11e7-9db6-c6a3efc2f2ba.png" width="80%" /></p>
 
 ## Getting Started :
 
