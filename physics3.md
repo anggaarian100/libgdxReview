@@ -1,1 +1,3 @@
+# Part 13: Physics Part 3 – Collisions
 
+Sejauh ini kita telah simulasi physics sederhana. Selanjutnya benda-benda physics yang kita deklarasikan dengan physics, sebenarnya jika benda-benda tersebut saling bersentehun maka akan terjadi sebuah tubrukan yang disebut Collision. Collisions ini sangat penting mengingat banyak sekali game-game yang menerapkannya, ketika sebuah player bersentuhan dengan sebuah enemy(musuh) mereka akan melakukan kontak fisik yang disebut Collision. Untuk contoh penarapan Collision di LibGDX, kita bisa mengikutin pembahasan di laman ini [Physics Engine 3](http://www.gamefromscratch.com/post/2014/09/25/LibGDX-LibGDX-Tutorial-13-Physics-with-Box2D-Part-3-Collisions.aspx)
