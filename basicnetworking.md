@@ -208,10 +208,9 @@ public class Jaringan mengimplementasikan ApplicationListener {
     }
 }
 ```
-Dan hasil dari kode tersebut seperi ini:
+Dan hasil dari kode tersebut seperi ini:<br>
 <img align="middle" src="http://www.gamefromscratch.com/image.axd?picture=image_1119.png" /> 
 
-```
 Dua nilai atas adalah alamat IP v4 dari mesin Anda berjalan pada. Anda harus memasukkan ini dalam salinan lain dari aplikasi yang ingin chatting dengan. Alamat ini secara unik mengidentifikasi mesin Anda di internet, sementara kita ditentukan port (9021) menggunakan kode. Pikirkan port seperti kotak surat di sebuah gedung apartemen. Alamat jalan dari bangunan sebanding dengan alamat IP, sedangkan PORT ini mirip dengan nomor apartemen. nilai-nilai pelabuhan pergi dari 1 sampai 65.536, meskipun beberapa dicadangkan. Sebagian besar port disediakan adalah> 100, jadi ketika memilih port untuk aplikasi pemain mencari untuk melihat apakah alamat tersebut adalah pelabuhan khusus (seperti 80 untuk komunikasi HTTP, atau 21 untuk FTP), atau hanya memilih nilai tinggi acak. Mesin Anda dapat memiliki beberapa alamat, satu per adapter jaringan dan mungkin lebih, terutama jika Anda menjalankan software virtualisasi seperti VMWare. Lalu ada nilai 127.0.0.1, ini adalah alamat khusus yang dikenal sebagai adapter loop kembali, dan alamat yang menunjuk kembali pada dirinya sendiri.
 <br>
 Di mana saat mengatakan “Hello World”, ini adalah di mana setiap pesan yang masuk akan ditampilkan.
