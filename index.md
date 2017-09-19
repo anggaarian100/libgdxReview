@@ -37,7 +37,7 @@
 
 * [Part 11: Tiled Maps Part 2 - Adding a Sprite and Dealing with Layers](tiledmaps3.md)
 
-* [Part 12: Using GLSL Shaders ( and dynamically creating a Mesh )](usinggls.md)
+* [Part 12: Using GLSL Shaders](usinggls.md)
 
 * [Part 13: Physics Part 1 -- A Basics Simulation](physics.md)
 
@@ -49,7 +49,7 @@
 
 * [ Part 14: Gamepad support](gamepad.md)
 
-* [Part 15: Particles Part One -- 2D Particles ( For Video version click here)](particles.md)
+* [Part 15: Particles Part One -- 2D Particles](particles.md)
 
 * [Part 16: Using a Camera](usecamera.md)
 
