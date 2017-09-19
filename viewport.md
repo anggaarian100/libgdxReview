@@ -78,3 +78,4 @@ FillViewPort akan selalu mengisi viewport, meski itu berarti harus memotong bagi
 
 untuk mengetahui lebih lanjut mengenai ViewPorts, bisa mengunjungi alamat ini
 http://www.gamefromscratch.com/post/2014/12/09/LibGDX-Tutorial-Part-17-Viewports.aspx
+
