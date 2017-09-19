@@ -1,1 +1,3 @@
+# Part 6: Motion Controls
 
+Saat ini, kebanyakan perangkat mobile memiliki kemampuan deteksi gerak yang sangat akurat, yang didukung sepenuhnya oleh LibGDX. Dalam contoh ini kita akan melihat bagaimana menangani gerakan sekaligus mendeteksi apakah perangkat mendukung fungsionalitas tertentu dan untuk mendeteksi ke arah mana perangkat berorientasi. Proyek ini berkisar pada satu contoh kode tunggal, namun ada beberapa langkah konfigurasi yang perlu Anda sadari. Untuk lebih jelasnya bisa kita lihat di[Motion Controls](http://www.gamefromscratch.com/post/2013/10/30/LibGDX-Tutorial-6-Motion-controls.aspx)
