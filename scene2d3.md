@@ -85,6 +85,7 @@ public class SceneManagementDemo mengimplementasikan ApplicationListener {
 }
 ```
 <img align="middle" src="http://www.gamefromscratch.com/image.axd?picture=SceneManagementCompressed.gif" /> 
+
 ```
 Paket com.me.mygdxgame;
 
