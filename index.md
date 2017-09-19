@@ -1,10 +1,8 @@
 <p align="center"><b> TUGAS REVIEW :LibGDX Architecture and API</b></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/30854434/30577024-e6a757f4-9d35-11e7-9db6-c6a3efc2f2ba.png" /></p>
 
-### The Tutorial :
+## The Tutorial :
 
-<div align="center">
-  
 * [Part 1: Creating a project](creatingproject.md)
 
 * [Part 2: Hello World](helloworld.md)
@@ -56,5 +54,3 @@
 * [Part 16: Using a Camera](usecamera.md)
 
 * [Part 17: Using Viewports.  Scaling for Different Aspect Ratios](viewport.md)
-
-</div>
