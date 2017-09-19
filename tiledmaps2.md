@@ -147,4 +147,4 @@ Seperti yang lihat dalam penangan utama:
 }
 ```
 
-Jadi pada dasarnya pemain bergerak kiri kamera / kanan / atas / bawah dengan satu ubin setiap kali tombol panah ditekan. Dalam hal 0 atau 1 kunci ditekan kita beralih visibilitas yang lapisan tertentu. Seperti yang dilihat,dapat mengakses lapisan TileMap menggunakan getLayers (). Get () fungsi.. Penjelesan lebih luas kita bisa lihat di laman berikut [Adding a Sprite and Dealing with Layers](http://www.gamefromscratch.com/post/2014/04/16/LibGDX-Tutorial-11-Tiled-Maps-Part-1-Simple-Orthogonal-Maps.aspx)
+Jadi pada dasarnya pemain bergerak kiri kamera / kanan / atas / bawah dengan satu ubin setiap kali tombol panah ditekan. Dalam hal 0 atau 1 kunci ditekan kita beralih visibilitas yang lapisan tertentu. Seperti yang dilihat,dapat mengakses lapisan TileMap menggunakan getLayers (). Get () fungsi.. Penjelesan lebih luas kita bisa lihat di laman berikut [Simple Orthogonal (Top Down) Maps](http://www.gamefromscratch.com/post/2014/04/16/LibGDX-Tutorial-11-Tiled-Maps-Part-1-Simple-Orthogonal-Maps.aspx)
