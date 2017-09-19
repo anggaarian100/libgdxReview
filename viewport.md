@@ -10,5 +10,5 @@ Ada beberapa macam Viewports:
 * StretchViewport
 * ScreenViewport
 
-Tentu saja kita bisa mewarisi Viewport dan membuatnya sendiri. Untuk mengetahui lebih lanjut mengenai ViewPorts, bisa mengunjungi alamat ini http://www.gamefromscratch.com/post/2014/12/09/LibGDX-Tutorial-Part-17-Viewports.aspx
+Tentu saja kita bisa mewarisi Viewport dan membuatnya sendiri. Untuk mengetahui lebih lanjut mengenai ViewPorts, bisa mengunjungi alamat ini [ViewPorts](http://www.gamefromscratch.com/post/2014/12/09/LibGDX-Tutorial-Part-17-Viewports.aspx)
 
