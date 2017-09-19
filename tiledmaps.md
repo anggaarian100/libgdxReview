@@ -13,8 +13,10 @@ Salah satu kebutuhan yang sangat umum bahkan untuk game yang paling sederhana ad
 * Sekarang di panel Layers Anda akan melihat lapisan kedua yang tersedia.
 * Sekarang Anda bisa melukis “lebih” rumput dan jalan lapisan, seperti:
 <img align="middle" src="http://www.gamefromscratch.com/image.axd?picture=t13.png" /> 
+
 * Selamat, Anda baru saja membuat peta pertama Anda. Sekarang kita hanya menyimpannya.
 <img align="middle" src="http://www.gamefromscratch.com/image.axd?picture=t14.png" />
+
 * Selanjutnya kita akan lihat menggunakan peta ini dalam kode di LibGDX.
 
 Penjelesan lebih luas kita bisa lihat di laman berikut [Using the Tiled map editor](http://www.gamefromscratch.com/post/2014/04/15/A-quick-look-at-Tiled-An-open-source-2D-level-editor.aspx)
